@@ -1,4 +1,4 @@
-# Diagrams :chart_with_upwards_trend:`
+# Diagrams :chart_with_upwards_trend:
 
 This repo contains diagrams produced using draw.io.
 
